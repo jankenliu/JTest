@@ -13,7 +13,7 @@ public class VoTest {
     public static void main(String[] args) throws InterruptedException {
 
 
-        System.out.println("bbbbbbbb");
+        System.out.println("aaaaaaaaa");
         System.out.println("6666");
         System.out.println("44444444");
         System.out.println("主线程开始工作");
