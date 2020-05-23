@@ -11,6 +11,9 @@ public class VoTest {
     private static CountDownLatch countDownLatch = new CountDownLatch(3);
 
     public static void main(String[] args) throws InterruptedException {
+
+
+        System.out.println("333333333");
         System.out.println("主线程开始工作");
         new Thread(() -> {
             try {
