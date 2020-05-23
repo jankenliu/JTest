@@ -46,7 +46,7 @@ public class VoTest {
         Thread.currentThread().join();
         System.out.println("全部完成任务，主线程继续执行。。。");
 
-
+        System.out.println("777777");
         System.out.println("5555");
         System.out.println("11111111111");
 
