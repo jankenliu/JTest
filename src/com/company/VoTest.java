@@ -14,6 +14,8 @@ public class VoTest {
 
 
         System.out.println("333333333");
+
+        System.out.println("44444444");
         System.out.println("主线程开始工作");
         new Thread(() -> {
             try {
