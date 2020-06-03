@@ -17,6 +17,7 @@ public class VoTest {
         System.out.println("我不要这个bbbbb");
         System.out.println("44444444");
         System.out.println("主线程开始工作");
+        System.out.println("temp=1111111");
         new Thread(() -> {
             try {
                 Thread.sleep(100);
