@@ -13,6 +13,7 @@ public class VoTest {
     public static void main(String[] args) throws InterruptedException {
 
 
+        System.out.println("11111");
         System.out.println("我要这个");
         System.out.println("我要这个1111");
         System.out.println("我要这个2222");
