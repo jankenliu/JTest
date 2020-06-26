@@ -24,6 +24,7 @@ public class VoTest {
         System.out.println("temp=1111111");
         System.out.println("33333");
         System.out.println("3");
+        System.out.println("1");
         new Thread(() -> {
             try {
                 Thread.sleep(100);
