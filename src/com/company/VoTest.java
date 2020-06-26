@@ -22,6 +22,7 @@ public class VoTest {
         System.out.println("主线程开始工作");
         System.out.println("temp=1111111");
         System.out.println("33333");
+        System.out.println("3");
         new Thread(() -> {
             try {
                 Thread.sleep(100);
